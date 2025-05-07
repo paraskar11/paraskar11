@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-<img align="right" alt="coding" width="400" src="[![image](https://github.com/user-attachments/assets/17f13e67-bf0e-48ae-99ce-dc5bd2681e1c)
-">
-](https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966)
+<img align="right" alt="coding" width="400" src="[[![image](https://github.com/user-attachments/assets/17f13e67-bf0e-48ae-99ce-dc5bd2681e1c)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3mQJZQiMuYHdEGz3I9mL4E&ust=1746735400784000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPDJqc6Wko0DFQAAAAAdAAAAABAE)">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paraskar11&label=Profile%20views&color=0e75b6&style=flat" alt="paraskar11" /> </p>
 
 - 🌱 I’m currently learning **DSA,Web Development**
