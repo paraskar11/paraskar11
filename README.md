@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-<img align="right" alt="coding" width="400" src="[[![image](https://github.com/user-attachments/assets/17f13e67-bf0e-48ae-99ce-dc5bd2681e1c)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3mQJZQiMuYHdEGz3I9mL4E&ust=1746735400784000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPDJqc6Wko0DFQAAAAAdAAAAABAE)">
+<img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/db434aad-8a37-4846-9905-0f743f2cc6a8).gif
+">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paraskar11&label=Profile%20views&color=0e75b6&style=flat" alt="paraskar11" /> </p>
 
